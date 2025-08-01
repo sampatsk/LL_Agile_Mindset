@@ -69,20 +69,34 @@ Agile mindset focuses on:
 ### Chapter: 3. Facilitating an Agile Mindset
 ***********************************************
 
-### Video: Changing Organizational Culture
+### Video: Common Pushbacks
+People are comfortable doing what they are and struggle to envision what agile mindset can accomplish.
 
-### Video: Improving Your Delivery
+Personas of people that create pushbacks in adopting agile mindset: 
+- The Complainer: unwilling to understand agile or leadership has not conveyed the transformation effectively, leading them to voice unhappiness and distresses other's adoption of agile conciously or unconciously.
+- The Know-it-All: thinks they have nothing to learn and resists transformation because they do not know the benefits of agile
+- The Lost Leader: uses agile as a buzzword but do not know what agile mindset is (misinformed by assumptions like agile will fix all of our problems quickly or it can do more work with less people)
 
-### Video: Improving Your Delivery
+Agile is a tool that will change the way you work and deliver.  
+
+### Video: Leveraging Change Champions
+
+### Video: Loving Easy Wins
 
 ***********************************************
 ### Chapter: 4. Focus on Results
 ***********************************************
 
-### Video: Changing Organizational Culture
+### Video: Tracking Your Results
 
-### Video: Improving Your Delivery
+### Video: Frequent and Open Communication
 
-### Video: Improving Your Delivery
+### Video: Preparing for Setbacks
 
-## Conclusion: 
+***********************************************
+### Conclusion
+***********************************************
+
+## Video: Leading the Embrace
+
+
